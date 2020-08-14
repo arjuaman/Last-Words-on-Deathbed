@@ -31,6 +31,6 @@ Run gline.py
 Its output is written to gline.js which is visualized using gline.html</br>
 
 Final representation:</br>
-![alt_text](https://github.com/arjuaman/final_representation_my_capstone/blob/master/Capture11.jpeg)
+![alt_text](https://github.com/arjuaman/final_representation_my_capstone/blob/master/Capture11.jpg)
 
 Comments welcome.
